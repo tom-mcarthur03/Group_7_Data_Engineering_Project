@@ -35,11 +35,11 @@ data-engineering-group-project/
 ├── data/
 │   ├── CO2 Emissions_Canada.csv
 │
-├── notebooks/
-│   ├── Sect_2_and_3_EDA_Feature_Selection.ipynb
-│   ├── Sect_4_Predictive Models.ipynb
-│   ├── Sect_4_Clustering_models_DBSCAN_and_K_means.ipynb
-│   └── Sect_5_Classification_Models.ipynb
+└── notebooks/
+    ├── Sect_2_and_3_EDA_Feature_Selection.ipynb
+    ├── Sect_4_Predictive Models.ipynb
+    ├── Sect_4_Clustering_models_DBSCAN_and_K_means.ipynb
+    └── Sect_5_Classification_Models.ipynb
 ```
 
 ## Files included in this submission

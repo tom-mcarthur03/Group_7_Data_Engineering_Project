@@ -31,29 +31,15 @@ data-engineering-group-project/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── environment.yml                  # optional but recommended
 │
 ├── data/
-│   ├── raw/
-│   │   └── CO2 Emissions_Canada.csv
-│   └── processed/
-│       └── [optional cleaned or intermediate datasets]
+│   ├── CO2 Emissions_Canada.csv
 │
 ├── notebooks/
 │   ├── Sect_2_and_3_EDA_Feature_Selection.ipynb
 │   ├── Sect_4_Predictive Models.ipynb
 │   ├── Sect_4_Clustering_models_DBSCAN_and_K_means.ipynb
 │   └── Sect_5_Classification_Models.ipynb
-│
-├── report/
-│   ├── Data Engineering Group 7 Finalised Report.pdf
-│   └── Data Engineering Group 7 Finalised Report.docx   # optional
-│
-├── figures/                            # optional but recommended
-│   └── [exported plots used in report or presentation]
-│
-└── results/                            # optional
-    └── [saved tables, model outputs, or summaries]
 ```
 
 ## Files included in this submission

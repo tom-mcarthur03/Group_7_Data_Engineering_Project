@@ -126,13 +126,13 @@ This order follows the project pipeline from data preparation through modelling 
 ## Main Python packages used
 
 The project uses the following main libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- jupyter
-- ipython
+- numpy==2.1.3
+- pandas==2.2.3
+- matplotlib==3.10.0
+- seaborn==0.13.2
+- scikit-learn==1.6.1
+- ipython==8.30.0
+- jupyter==1.1.1
 
 ## Submission note
 
